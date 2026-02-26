@@ -1,27 +1,33 @@
 <html xmlns:jsp="http://java.sun.com/JSP/Page">
+<%@ page isELIgnored="false" %>
     <head>
         <title>Actualizare student</title>
         <meta charset="UTF-8">
     </head>
     <body>
-        <h3>Formular actualizare student</h3>
-        <jsp:useBean id="studentBean" class="beans.StudentBean" />
-        <jsp:setProperty name="studentBean" property="nume" value='<%=
-            request.getAttribute("nume") %>'/>
-        <jsp:setProperty name="studentBean" property="prenume" value='<%=
-            request.getAttribute("prenume") %>'/>
-        <jsp:setProperty name="studentBean" property="varsta" value='<%=
-            request.getAttribute("varsta") %>'/>
-        Introduceti datele despre student:
-        <form action="./process-student" method="post">
-            Nume: <input type="text" name="nume" value="<jsp:getProperty name='studentBean' property='nume' />" />
+    <form action="./update-student" method="post">
+        <h3>Actualizare student</h3>
+        <label>
+          <input type="checkbox" name="delete" value="false" unchecked>
+          Stergere student gasit
+        </label>
+        <br />
+        <br />
+        <h6>Introduceti datele ce doresc schimbate:</h6>
+            Nume: <input type="text" name="nume" value="${nume}" />
             <br />
-            Prenume: <input type="text" name="prenume" value="<jsp:getProperty name='studentBean' property='prenume' />" />
+            Prenume: <input type="text" name="prenume" value="${prenume}" />
             <br />
-            Varsta: <input type="number" name="varsta" value="<jsp:getProperty name='studentBean' property='varsta' />" />
+            Varsta: <input type="number" name="varsta" value="${varsta}" />
+            <br />
+            Oras: <input type="text" name="oras" value="${oras}" />
+            <br />
+            Adresa: <input type="text" name="adresa" value="${adresa}"/>
+            id: <input type="hidden" name="id" value="${id}" />
             <br />
             <br />
             <button type="submit" name="submit">Actualizare</button>
         </form>
+        <a href="./index">Home</a>
     </body>
 </html>
