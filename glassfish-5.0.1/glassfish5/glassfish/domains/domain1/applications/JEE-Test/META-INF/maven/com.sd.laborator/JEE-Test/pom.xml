@@ -41,6 +41,22 @@
       <version>2.11.4</version>
     </dependency>
 
+
+
+    <!-- 4. Sqlite (Regular Dependency) -->
+    <!-- Source: https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc -->
+    <dependency>
+      <groupId>org.xerial</groupId>
+      <artifactId>sqlite-jdbc</artifactId>
+      <version>3.51.1.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <!-- dependinta jstl(pentru c)-->
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>jstl</artifactId>
+      <version>1.2</version>
+    </dependency>
     <!-- DO NOT PUT CARGO PLUGIN HERE -->
   </dependencies>
 

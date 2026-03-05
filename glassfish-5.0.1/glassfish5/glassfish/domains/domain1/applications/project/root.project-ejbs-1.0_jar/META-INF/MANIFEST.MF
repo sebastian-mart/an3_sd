@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: root.project-primary-source-1.0.jar root.project.projects-
+ logging-1.0.jar org.xerial-sqlite-jdbc-3.35.0.1.jar
+Build-Jdk-Spec: 1.8
+Created-By: Maven EJB Plugin 3.2.1
+

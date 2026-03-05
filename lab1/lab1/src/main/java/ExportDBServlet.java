@@ -16,7 +16,7 @@ public class ExportDBServlet extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         List<StudentBean> students = new ArrayList<>();
         try {
-            Connection conn = DriverManager.getConnection("jdbc:sqlite:students.db");
+             Connection conn = DriverManager.getConnection("jdbc:sqlite:students.db");
              Statement stmt = conn.createStatement();
              ResultSet rs = stmt.executeQuery("SELECT * FROM student");
 

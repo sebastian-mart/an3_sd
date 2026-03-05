@@ -11,7 +11,7 @@
       <module>servlets</module>
       <module>ejbs</module>
       <module>ear</module>
-      <module>site</module>
+      <!--<module>site</module>-->
    </modules>
    <build>
       <pluginManagement>

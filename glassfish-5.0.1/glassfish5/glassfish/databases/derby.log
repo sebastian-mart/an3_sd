@@ -1,0 +1,14 @@
+Wed Mar 04 14:04:08 EET 2026 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Wed Mar 04 14:04:35 EET 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-019c-b8bb-e82d-ffffdb33ab19 
+on database directory /home/sebastian/facultate/an3/sem2/sd/labs/glassfish-5.0.1/glassfish5/glassfish/databases/sun-appserv-samples with class loader sun.misc.Launcher$AppClassLoader@33909752 
+Loaded from file:/home/sebastian/facultate/an3/sem2/sd/labs/glassfish-5.0.1/glassfish5/javadb/lib/derby.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=1.8.0_432-b06
+user.dir=/home/sebastian/facultate/an3/sem2/sd/labs/glassfish-5.0.1/glassfish5/bin
+os.name=Linux
+os.arch=amd64
+os.version=6.12.69+deb12-amd64
+derby.system.home=/home/sebastian/facultate/an3/sem2/sd/labs/glassfish-5.0.1/glassfish5/glassfish/databases
+Database Class Loader started - derby.database.classpath=''

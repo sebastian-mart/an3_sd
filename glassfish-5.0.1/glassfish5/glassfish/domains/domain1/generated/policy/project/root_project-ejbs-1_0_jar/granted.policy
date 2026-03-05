@@ -1,0 +1,30 @@
+/* AUTOMATICALLY GENERATED ON Thu Mar 05 13:35:46 EET 2026*/
+/* DO NOT EDIT */
+
+grant {
+  permission javax.security.jacc.EJBMethodPermission "BankAccountBean", "getBalance,Remote,";
+  permission javax.security.jacc.EJBMethodPermission "StudentsDbConnection", "deleteStudent,Local,int";
+  permission javax.security.jacc.EJBMethodPermission "StatelessSessionBeanExample", "getCurrentTime,Local,";
+  permission javax.security.jacc.EJBMethodPermission "BankAccountBean", "getBalance,Local,";
+  permission javax.security.jacc.EJBMethodPermission "StudentsDbConnection", "getAllStudents,Remote,";
+  permission javax.security.jacc.EJBMethodPermission "StudentsDbConnection", "getAllStudents,Local,";
+  permission javax.security.jacc.EJBMethodPermission "StudentsDbConnection", "addStudent,Remote,java.lang.String,java.lang.String,int";
+  permission javax.security.jacc.EJBMethodPermission "StudentsDbConnection", "updateStudent,Remote,int,java.lang.String,java.lang.String,int";
+  permission javax.security.jacc.EJBMethodPermission "StatelessSessionBeanExample", "addNumbers,Local,java.lang.Integer,java.lang.Integer";
+  permission javax.security.jacc.EJBMethodPermission "StatelessSessionBeanExample", "getCurrentTime,Remote,";
+  permission javax.security.jacc.EJBMethodPermission "BankAccountBean", "deposit,Local,java.lang.Integer";
+  permission javax.security.jacc.EJBMethodPermission "StudentsDbConnection", "addStudent,Local,java.lang.String,java.lang.String,int";
+  permission javax.security.jacc.EJBMethodPermission "BankAccountBean", "withdraw,Local,java.lang.Integer";
+  permission javax.security.jacc.EJBMethodPermission "BankAccountBean", "deposit,Remote,java.lang.Integer";
+  permission javax.security.jacc.EJBMethodPermission "StatelessSessionBeanExample", "addNumbers,Remote,java.lang.Integer,java.lang.Integer";
+  permission javax.security.jacc.EJBMethodPermission "BankAccountBean", "withdraw,Remote,java.lang.Integer";
+  permission javax.security.jacc.EJBMethodPermission "StudentsDbConnection", "updateStudent,Local,int,java.lang.String,java.lang.String,int";
+  permission javax.security.jacc.EJBMethodPermission "StudentsDbConnection", "deleteStudent,Remote,int";
+};
+
+grant      principal * * {
+  permission javax.security.jacc.EJBRoleRefPermission "StatelessSessionBeanExample", "**";
+  permission javax.security.jacc.EJBRoleRefPermission "StudentsDbConnection", "**";
+  permission javax.security.jacc.EJBRoleRefPermission "BankAccountBean", "**";
+};
+

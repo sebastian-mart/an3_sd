@@ -13,7 +13,13 @@
       <dependency>
          <groupId>root.project.projects</groupId>
          <artifactId>logging</artifactId>
-      </dependency>                  
+      </dependency>
+      <dependency>
+         <groupId>javax</groupId>
+         <artifactId>javaee-api</artifactId>
+         <version>8.0.1</version>
+         <scope>provided</scope>
+      </dependency>
    </dependencies>
    <build>
       <plugins>

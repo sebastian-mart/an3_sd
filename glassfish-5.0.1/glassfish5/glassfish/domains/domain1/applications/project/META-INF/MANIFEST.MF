@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: root.project-ejbs-1.0.jar org.xerial-sqlite-jdbc-3.35.0.1.
+ jar root.project.servlets-servlet-1.0.war root.project-primary-source
+ -1.0.jar root.project.projects-logging-1.0.jar
+Build-Jdk-Spec: 1.8
+Created-By: Maven EAR Plugin 3.3.0
+
