@@ -5,72 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0126d50-a1ea-4eaf-a7df-f7724dc2a165" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/META-INF/maven/com.sd.laborator/JEE-Test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/META-INF/maven/com.sd.laborator/JEE-Test/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/WEB-INF/classes/ProcessStudentServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/WEB-INF/classes/ProcessStudentServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/WEB-INF/classes/ReadStudentServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/WEB-INF/classes/ReadStudentServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/WEB-INF/classes/UpdateStudentServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/WEB-INF/classes/UpdateStudentServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/WEB-INF/classes/beans/StudentBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/WEB-INF/classes/beans/StudentBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/formular.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/formular.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/info-student.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/info-student.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/update-student.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/JEE-Test/update-student.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/__internal/JEE-Test/JEE-Test.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/applications/__internal/JEE-Test/JEE-Test.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/config/domain.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/config/domain.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/config/domain.xml.bak" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/config/domain.xml.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/config/local-password" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/config/local-password" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/config/pid.prev" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/config/pid.prev" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/generated/jsp/JEE-Test/org/apache/jsp/index_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/generated/jsp/JEE-Test/org/apache/jsp/info_002dstudent_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/generated/jsp/JEE-Test/org/apache/jsp/update_002dstudent_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/generated/policy/JEE-Test/JEE-Test/granted.policy" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/generated/policy/JEE-Test/JEE-Test/granted.policy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/generated/policy/__admingui/__admingui/excluded.policy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/generated/policy/__admingui/__admingui/granted.policy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/generated/policy/__default-web-module/__default-web-module/granted.policy" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/generated/policy/__default-web-module/__default-web-module/granted.policy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/generated/policy/cargocpc/cargocpc/granted.policy" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/generated/policy/cargocpc/cargocpc/granted.policy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/logs/server.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/logs/server.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/logs/server/tx/recoveryfile" beforeDir="false" afterPath="$PROJECT_DIR$/../../glassfish-5.0.1/glassfish5/glassfish/domains/domain1/logs/server/tx/recoveryfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab1/lab1/src/main/java/ExportDBServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/lab1/src/main/java/ExportDBServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ear/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ear/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejbs/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ejbs/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejbs/src/main/resources/META-INF/ejb-jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ejbs/src/main/resources/META-INF/ejb-jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary-source/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/primary-source/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servlets/servlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/servlets/servlet/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servlets/servlet/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/servlets/servlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servlets/servlet/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/servlets/servlet/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JEE-Test/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JEE-Test/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JEE-Test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JEE-Test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JEE-Test/ear/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JEE-Test/ejbs/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JEE-Test/ejbs/src/main/resources/META-INF/ejb-jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JEE-Test/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JEE-Test/primary-source/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JEE-Test/projects/logging/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JEE-Test/projects/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JEE-Test/servlets/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JEE-Test/servlets/servlet/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JEE-Test/servlets/servlet/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JEE-Test/servlets/servlet/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_eu/lab2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_eu/lab2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_eu/lab2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_eu/lab2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_eu/lab2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_eu/lab2/ear/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_eu/lab2/ejbs/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_eu/lab2/ejbs/src/main/resources/META-INF/ejb-jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_eu/lab2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_eu/lab2/primary-source/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_eu/lab2/projects/logging/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_eu/lab2/projects/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_eu/lab2/servlets/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_eu/lab2/servlets/servlet/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_eu/lab2/servlets/servlet/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab2_eu/lab2/servlets/servlet/src/main/webapp/index.jsp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,27 +32,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.project [clean,install].executor": "Run",
-    "Maven.project [clean].executor": "Run",
-    "Maven.project [compile].executor": "Run",
-    "Maven.project [deploy].executor": "Run",
-    "Maven.project [package].executor": "Run",
-    "Maven.project [validate].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/sebastian/facultate/an3/sem2/sd/labs/lab2/SD_Laborator_02Exemplu/JEE-App",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.project [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.project [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.project [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.project [deploy].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.project [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.project [validate].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/sebastian/facultate/an3/sem2/sd/labs/lab2/SD_Laborator_02Exemplu/JEE-App&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean" />
