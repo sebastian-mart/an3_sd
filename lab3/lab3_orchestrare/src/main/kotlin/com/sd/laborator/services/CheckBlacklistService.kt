@@ -15,6 +15,6 @@ class CheckBlacklistService : CheckBlacklistInterface {
             true
     }
     private fun getCurrentSystemZone(): String{
-        return Locale.getDefault().country
+        return System.getProperty("user.country")
     }
 }

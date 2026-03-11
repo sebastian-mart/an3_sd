@@ -1,4 +1,8 @@
 package com.sd.laborator.pojo
+
+import kotlinx.serialization.Serializable
+
+
 enum class WeatherState(val code: Int, val description: String) {
     CLEAR_SKY(0, "Cer senin"),
     MAINLY_CLEAR(1, "Preponderent senin"),
@@ -25,6 +29,7 @@ enum class WeatherState(val code: Int, val description: String) {
 }
 //data class obligatorii trb sa aiba constructor primar
 //obiectele POJO  NU proceseaza date!!
+@Serializable
 data class WeatherForecastData(
     var location: String,
     var date: String,
